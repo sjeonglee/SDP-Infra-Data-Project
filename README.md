@@ -34,7 +34,7 @@
             - 개발팀과 Scrapy와 API로 수집 실험을 진행하며 가장 효과적인 데이터 수집 방법 탐색
         - NLP 개발자
             - 사람이 기사를 직접 읽지 않아도 인프라 건설 현장의 상황을 알 수 있을까?
-                - [인프라 건설 현장의 status (활성 - Operation / Active, 비활성 - Cancel / Delay)에 따른 단어들에는 무엇이 있을까?](https://github.com/sjeonglee/SDP-Infra-Data-Project/blob/main/0829_find_representative_words.ipynb)
+                - [인프라 건설 현장의 status (활성 - Operation / Active, 비활성 - Cancel / Delay)에 따른 단어들에는 무엇이 있을까?](https://github.com/sjeonglee/sdp-vocab-selector)
                     - Word Counting
                     - Word Appearance
                     - 회귀분석으로 vocab의 중요성에 따라
