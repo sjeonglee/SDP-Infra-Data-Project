@@ -42,7 +42,7 @@
                 - [리서치팀이 수작업으로 분류해 준 기사들을 바탕으로 TF-IDF 벡터 추출, 기사의 내용에 따라 활성 혹은 비활성으로 분류할 수 있는 Logistic Regression 모델 개발](https://github.com/sjeonglee/SDP-Infra-Data-Project/blob/main/TFIDF_LOGREG_MODEL_EVALUATION.ipynb)
                 - XGBoost, MLP(MultiLayer Perception), RNN 모델과 앙상블하여 활용함
             - 인프라 관련 기사가 아닌 기사들이 수집되었을 때, 관련 기사만 추출하는 방법은?
-                - [인프라 관련 기사들에서 공통도니 단어들을 추출, Pre-Trained GloVe 벡터와 LSTM 모델을 활용하여 인프라 관련 기사인지 판단하는 모델 개발](https://github.com/sjeonglee/SDP-Infra-Data-Project/blob/main/Classification_GloVe.ipynb)
+                - [인프라 관련 기사들에서 공통된 단어들을 추출, Pre-Trained GloVe 벡터와 LSTM 모델을 활용하여 인프라 관련 기사인지 판단하는 모델 개발](https://github.com/sjeonglee/SDP-Infra-Data-Project/blob/main/Classification_GloVe.ipynb)
             - 특정 인프라 건설 프로젝트와 유사한 성질을 가진 다른 프로젝트를 찾을 수 있을까?
                 - [각 프로젝트 별 특징이 정리된 엑셀 파일을 바탕으로 연관규칙분석(장바구니 분석) 수행](https://github.com/sjeonglee/SDP-Infra-Data-Project/blob/main/map_see_also.ipynb)
 
